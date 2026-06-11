@@ -123,9 +123,10 @@ Through this project, I improved my skills in:
 
 Dashboard screenshots here.
 
-<img width="1311" height="735" alt="Screenshot 2026-06-11 224450" src="https://github.com/user-attachments/assets/ab58f32b-75fa-45fd-b426-1e49ca290489" />
+<img width="1311" height="739" alt="Screenshot 2026-06-12 010259" src="https://github.com/user-attachments/assets/a19f24b5-2e09-46b2-b9d5-8b0ba7a2b1ed" />
 
-<img width="1310" height="733" alt="Screenshot 2026-06-11 224507" src="https://github.com/user-attachments/assets/39b0eb90-4c74-435d-a1ce-02d9b466ed37" />
+<img width="1310" height="737" alt="Screenshot 2026-06-12 010323" src="https://github.com/user-attachments/assets/b0ba9fbb-8906-4d85-93a7-95799973cc3c" />
+
 
 Key Analysis:-
 
