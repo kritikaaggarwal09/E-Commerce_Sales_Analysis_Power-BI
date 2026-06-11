@@ -60,6 +60,22 @@ The dashboard allows users to interact with charts and filters for deeper analys
 
 ---
 
+## 📊 Key Business Insights
+
+✅ Total Sales Revenue: 21,425K generated during the analysis period.
+
+✅ Total Orders: Approximately 31K orders were successfully processed
+
+📍 Top Performing State: Maharashtra
+
+🏙️ Top Performing City: Bengaluru
+
+📈 March achieved the highest sales performance
+
+🌐 Best Performing Sales Channel: Amazon
+
+---
+
 ## 📬 Visuals Used:
 - Cards
 - Bar Charts
@@ -107,13 +123,23 @@ Through this project, I improved my skills in:
 
 Dashboard screenshots here.
 
-<img width="1500" height="831" alt="Screenshot 2026-05-30 151320" src="https://github.com/user-attachments/assets/0f80bc9a-c4af-403b-ad2d-edf18c81e0fb" />
+<img width="1311" height="735" alt="Screenshot 2026-06-11 224450" src="https://github.com/user-attachments/assets/ab58f32b-75fa-45fd-b426-1e49ca290489" />
 
-<img width="1503" height="829" alt="Screenshot 2026-05-30 151351" src="https://github.com/user-attachments/assets/331433f2-4b8e-4463-93df-cacfea25ff98" />
+<img width="1310" height="733" alt="Screenshot 2026-06-11 224507" src="https://github.com/user-attachments/assets/39b0eb90-4c74-435d-a1ce-02d9b466ed37" />
+
+Key Analysis:-
+
+<img width="1326" height="746" alt="Screenshot 2026-06-11 224525" src="https://github.com/user-attachments/assets/6fed09e5-579e-4d13-91ab-5c6f1ec59829" />
+
+Recommendations :- 
+
+<img width="1328" height="746" alt="Screenshot 2026-06-11 224552" src="https://github.com/user-attachments/assets/16225443-34ed-41b7-aa5a-753d0950f4e0" />
 
 ---
 
 ## 📌 Conclusion
+
+The business achieved 21,425K in sales across 31K orders, with the Set category, Amazon channel, women customers, and the 30–50 age group emerging as the primary growth drivers. Future growth should focus on strengthening high-performing products, channels, and customer segments while implementing targeted strategies to improve underperforming categories, regions, and seasonal periods. 🚀📈
 
 This project demonstrates how Power BI can be used to transform raw sales data into meaningful insights using interactive dashboards, visual storytelling, and business analytics techniques.
 
